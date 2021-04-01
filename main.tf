@@ -3,7 +3,7 @@ terraform {
     organization = "SIMONGREEN-training"
 
     workspaces {
-      name = "nginx-dev-deploy"
+      name = "nginx-dev-test"
     }
   }
 }
